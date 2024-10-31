@@ -1,6 +1,6 @@
 # Hi there, I'm Leandra 👋
 
-![Your Banner Image](url-to-your-banner-image)
+![Your Banner Image](https://wallpapers.com/images/hd/ultrawide-minimalist-oqtjbvcq3vyb8ljf.webp)
 
 ## About Me
 
