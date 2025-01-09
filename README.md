@@ -13,5 +13,4 @@ I'm Leandra, a CS Student based in Indonesia 🇮🇩. I have a passion for F1 a
 
 ## Connect with Me
 
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://x.com/rectangle27)
 - [![Instagram](https://img.shields.io/badge/-Instagram-purple)](https://www.instagram.com/lean.lately/)
