@@ -1,6 +1,6 @@
 # Hi there, I'm Leandra 👋
 
-![Your Banner Image](https://4kwallpapers.com/images/wallpapers/macos-sequoia-4096x2264-17018.jpg)
+![Your Banner Image](https://4kwallpapers.com/images/walls/thumbs_3t/11577.jpeg)
 
 ## About Me
 
