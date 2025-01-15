@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Leandra, a CS Student based in Indonesia 🇮🇩. I have a passion for F1 and Tech 💻. Currently, I'm working on my school project ✍️.
+I'm Leandra, a CS Student based in Indonesia 🇮🇩. I have a passion for Tech 💻. Currently, I'm working on my school project ✍️.
 
 - 🔭 I’m currently training for LKS 2025
 - 🌱 I’m currently learning C# & Kotlin
