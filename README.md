@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandra</h1>
 <h3 align="center">A CS Student based in Indonesia 🇮🇩. I have a passion for Tech 💻.</h3>
 
+![Your Banner Image](https://4kwallpapers.com/images/walls/thumbs_3t/11577.jpeg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrawisnu&label=Profile%20views&color=0e75b6&style=flat" alt="leandrawisnu" /> </p>
 
 - 🔭 I’m currently Training for **LKS SMK 2026**
